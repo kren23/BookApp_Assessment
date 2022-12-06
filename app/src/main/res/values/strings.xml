@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Book App</string>
+    <string name="homeTitle">Book App</string>
+    <string name="bookOverview">Book Overview</string>
+    <string name="bookSearch">Search for book</string>
+    <string name="bookstoreSearch">Bookstore near me</string>
+    <string name="apiKey">AIzaSyAZsNTt2tlnh8vBaG02oPV-YzjkoQmIdjQ</string>
+</resources>
