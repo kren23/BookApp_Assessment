@@ -35,40 +35,33 @@ Total design words: *494*
 
 ## User Flows
 
-### User flow - find book store
-![image](https://user-images.githubusercontent.com/113984223/205882870-0d263127-1c72-4e9d-8c73-9533a83fb904.png)
+### User flow - Home page
+![image](https://github.com/kren23/BookApp_Assessment/assets/113984223/80c181a3-ffd3-4cfa-92aa-31afb3fa54bc)
 
-### User flow - Search for book
-![image](https://user-images.githubusercontent.com/113984223/205882941-d522f6e2-5015-438c-be72-119ad9e879da.png)
+### User flow - Searching page
+![image](https://github.com/kren23/BookApp_Assessment/assets/113984223/2eae6476-102b-40ff-a232-9d537311098d)
 
-### User flow - Book overview
-![image](https://user-images.githubusercontent.com/113984223/205883051-0f3d7d3b-e216-4fec-a0ee-57260d529042.png)
+### User Flow - Specifics Page
+![image](https://github.com/kren23/BookApp_Assessment/assets/113984223/0aa34cad-d295-4f51-a8e5-f8a9b569c481)
+
+### User Flow - Favourites Page
+![image](https://github.com/kren23/BookApp_Assessment/assets/113984223/6c34d55e-f881-4796-ac77-11cb1d53239c)
+
 
 ## Wireframes
-The aim for all wireframes were to ensure simplicity of design. As reading is more popular with an older demographic it is highly likely that users that are not good with technology will use this app.
+INSERT BASIC DESCRIPTION HERE
 
 ### Wireframe - Home/Landing page
-![image](https://user-images.githubusercontent.com/113984223/205883237-f7781e96-51e2-4fcf-804c-473d985ba0fb.png)
-The focus of the homepage is to be a simple and easy to use landing page where the user can access all functions from. Every function should also lead back to this.
+![image](https://github.com/kren23/BookApp_Assessment/assets/113984223/6558e40f-191f-4aa1-b044-fd859d2ff694)
 
-### Wireframe - Find a book store
-![image](https://user-images.githubusercontent.com/113984223/205883319-0b4942af-de27-4ca2-a23f-46ed9eca680b.png)
-The focus of the search for a bookstore is that the user will see a map view of the location they enter. Once the location is entered there would then be information displayed via API about various book stores around the area they entered.
+### Wireframe - Search Page
+![image](https://github.com/kren23/BookApp_Assessment/assets/113984223/b429eaca-dc35-48c3-9941-d701e7788e44)
 
-### Wireframe - Book search
-![image](https://user-images.githubusercontent.com/113984223/205883410-09366012-c8c1-4bac-b04f-a6cec32443f9.png)
-The focus of the book search is to link up the app with the OpenLibrary API. Depending on what the user searches, the OpenLibrary will return book information to the app for the user to view. Additionally there will be an option to save a book into your book overview. This would be an automated process and the book would be automatically imported to the book overview.
+### Wireframe - Restaurant Details
+![image](https://github.com/kren23/BookApp_Assessment/assets/113984223/092c1264-8807-4cef-9bfb-ef687828c944)
 
-### Wireframe - Book overview
-![image](https://user-images.githubusercontent.com/113984223/205883579-9cbdd650-2525-4e63-9ee6-b06572e44ffc.png)
-The book overview page would be a hub for all the saved books. The user will be able to scroll over all the different instances of saved books that is saved to their profile. 
-
-### Wireframe - Book overview - Adding/Editing book
-![image](https://user-images.githubusercontent.com/113984223/205883662-915d7619-f382-4681-bc26-7dc909743645.png)
-This page is what the user will see when adding or editing a book. This will contain all information required about the book. The only required field is book name.
-
-
-
+### Wireframe - Favourites Page 
+![image](https://github.com/kren23/BookApp_Assessment/assets/113984223/fd896a93-6901-4181-8450-702e8a4a2753)
 
 
 
