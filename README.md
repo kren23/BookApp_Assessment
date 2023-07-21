@@ -78,4 +78,4 @@ Furthermore, the project's time allocation was miscalculated, resulting in an in
 
 In conclusion, this experience has provided valuable insights into effective project management, particularly with regard to time allocation and skill acquisition, lessons that I will carry forward into future undertakings.
 
-# Total word count: *829*
+# Total word count: *758*
