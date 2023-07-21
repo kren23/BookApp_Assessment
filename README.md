@@ -31,7 +31,7 @@ Word count - Wireframe image text: 251
 Total design words: *494*
 
 ### Use case diagram
-![image](https://user-images.githubusercontent.com/113984223/205882656-5a7d78f1-1a29-47b3-ae83-acf5e5f99d23.png)
+![image](https://github.com/kren23/BookApp_Assessment/assets/113984223/2a115c2d-b4e9-4dbc-a30b-7b5a989e6ff1)
 
 ## User Flows
 
@@ -66,6 +66,10 @@ The book overview page would be a hub for all the saved books. The user will be 
 ### Wireframe - Book overview - Adding/Editing book
 ![image](https://user-images.githubusercontent.com/113984223/205883662-915d7619-f382-4681-bc26-7dc909743645.png)
 This page is what the user will see when adding or editing a book. This will contain all information required about the book. The only required field is book name.
+
+
+
+
 
 
 # Testing overview
