@@ -65,16 +65,17 @@ This page is designed to give the user a more in depth view at the establishment
 
 ### Wireframe - Favourites Page 
 ![image](https://github.com/kren23/BookApp_Assessment/assets/113984223/fd896a93-6901-4181-8450-702e8a4a2753)
+The favourites page is a simple locally stored list that saves the details of all establishments that were favourited. The user can use a search function to filter through these results. There is also a home button to allow navigation back. 
 
 # Reflective statement
-Words: 250
+Words: 181
 
-Unfortunately looking back, this project was not a great success for myself. As an NESCol alumni, I was not previously taught any Java or had any introduction to Android Studio.  
+Upon reflecting upon the project, it appears to have met with moderate success. During the re-sit period, a substantial proportion of my time was allocated towards understanding the intricacies of Android Studio.
 
-Having no knowledge in the language we were going to use, I decided throughout the semester to take some time to learn Java. As a result of the Universities fast paced environment, I found myself often falling behind with course work due to me having to put in the extra work out with class to learn Java along with the new Android Studio software. Due to the amount of learning required for this topic, and my slow understanding of Java it was a steep learning curve for myself. I would often find myself in Lectures struggling to keep up with what the lecturer was doing and why they were doing it. Not due to anything the lecturer done but just due to my slow understanding because of the steep learning curve. 
+However, two significant areas that did not receive the required concentration were, the management of time constraints and mastering the Java programming language. In retrospect, the complexity of Java was underestimated, leading to a longer learning curve than initially anticipated. Notwithstanding the challenges, I was ultimately able to proficiently utilise Java, albeit in a more protracted timeframe.
 
-Using Android Studio, could be quite frustrating and I was slow to learn it’s different functions. I found the UI very frustrating and overwhelming making it quite difficult to learn. The combination of trying to learn a brand new language at the same time as this complex software, I found quite difficult. 
+Furthermore, the project's time allocation was miscalculated, resulting in an insufficient allotment. This underestimation proved to be a critical impediment in the overall project timeline. Retrospectively, an additional week would have been beneficial to reach the project's completion, incorporating the database creation within the same timeframe. I do however take full responsibility for this as a result of all students crutch: procrastination.
 
-Reflecting back, I would definitely like to have had a more foundational knowledge within Java before beginning the class. Additionally some extra time to adjust to both the new language and complex software would have been beneficial.
+In conclusion, this experience has provided valuable insights into effective project management, particularly with regard to time allocation and skill acquisition, lessons that I will carry forward into future undertakings.
 
 # Total word count: *829*
