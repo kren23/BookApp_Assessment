@@ -24,11 +24,11 @@ Do you love eating out? Do you ever wonder how clean are the establishments you 
 
 
 ## App Design
-Word count - Wireframe descriptions: 243
+Word count - Wireframe descriptions: 304
 
-Word count - Wireframe image text: 251
+Word count - Wireframe image text: 161
 
-Total design words: *494*
+Total design words: *465*
 
 ### Use case diagram
 ![image](https://github.com/kren23/BookApp_Assessment/assets/113984223/2a115c2d-b4e9-4dbc-a30b-7b5a989e6ff1)
@@ -49,16 +49,19 @@ Total design words: *494*
 
 
 ## Wireframes
-INSERT BASIC DESCRIPTION HERE
+The overall theme for this app will be a food orientated design but with plain tones such as gray, white and black. This should hopefully provide the user with the perception of both food and cleanliness / hygiene. The theme off this app will be a very simple and plain layout as the main function is to read data, it is important that the data is formatted correctly to be easy to read.
 
 ### Wireframe - Home/Landing page
 ![image](https://github.com/kren23/BookApp_Assessment/assets/113984223/6558e40f-191f-4aa1-b044-fd859d2ff694)
+This interface is designed with a simple and efficient theme. Have the bottom for both functionalities offered by the app and then the title clearly stating what the app is.
 
 ### Wireframe - Search Page
 ![image](https://github.com/kren23/BookApp_Assessment/assets/113984223/b429eaca-dc35-48c3-9941-d701e7788e44)
+The search page has a slightly more detail design with a lot of information, however I will develop this to be easily readable and in a digestible format. The user should be able to scroll through the data and easily understand everything. At the top we have a search bar and enter button for the user to search a location. At the bottom we have a Home button allowing the user to navigate back home. 
 
 ### Wireframe - Restaurant Details
 ![image](https://github.com/kren23/BookApp_Assessment/assets/113984223/092c1264-8807-4cef-9bfb-ef687828c944)
+This page is designed to give the user a more in depth view at the establishment they select. This will show more information that is given in the search list but in a similar formatted and easily digestible format. The page has a simple format of the title at the top, the data in the centre. At the bottom we have a button to allow them to add this establishment to their favourite and then a home button to allow them to navigate back home.
 
 ### Wireframe - Favourites Page 
 ![image](https://github.com/kren23/BookApp_Assessment/assets/113984223/fd896a93-6901-4181-8450-702e8a4a2753)
